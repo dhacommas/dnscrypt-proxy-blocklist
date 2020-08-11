@@ -4,3 +4,34 @@ eth0.me
 ibpxl.com
 internetbrands.com
 motd.ubuntu.com
+
+# MiUi
+
+abroad.api.comm.intl.miui.com
+api.sec.miui.com
+global.api.huangye.miui.com
+logupdate.avlyun.sec.miui.com
+miuilog.yulorepages.com
+tracking.india.miui.com
+
+# Xiaomi
+
+api.ad.intl.xiaomi.com
+api.hybrid.intl.xiaomi.com
+app.chat.global.xiaomi.net
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
+globalapi.ad.xiaomi.com
+global.market.xiaomi.com
+global.video.intl.xiaomi.com
+metok-ccc.intl.xiaomi.com
+resolver.msg.global.xiaomi.net
+sdkconfig.ad.india.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+video.in.intl.xiaomi.com
+weatherapi.market.xiaomi.com
+
+
+# Reddit
+
+stats.redditmedia.com
